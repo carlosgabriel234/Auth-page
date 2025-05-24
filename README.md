@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Autenticação com Next.js, MongoDB e bcrypt 🔐
 
 Olá! Este é um projeto simples e funcional que implementa um sistema de autenticação do zero usando Next.js, MongoDB e bcrypt. Se você quer entender como criar um login e cadastro seguro, sem usar bibliotecas prontas como NextAuth, está no lugar certo!
@@ -34,4 +35,6 @@ Tecnologias usadas
 . bcryptjs – Hash seguro para senhas.
 
 . React Hook Form – Formulários fáceis e validados no frontend.
+
+=======
 
