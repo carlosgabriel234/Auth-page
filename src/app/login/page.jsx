@@ -39,7 +39,7 @@ export default function Login() {
       <div className={styles.form}>
         <h2 className={styles.title}>Entrar na conta</h2>
 
-        <div className={styles.divider}>ou</div>
+        
 
         <form onSubmit={handleSubmit(onSubmit)}>
           <label htmlFor="email" className={styles.label}>E-mail:</label>
